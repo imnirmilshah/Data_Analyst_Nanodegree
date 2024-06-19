@@ -1,2 +1,4 @@
 # Data_Analyst_Nanodegree
-[ ] dara
+## Commited changes have been:
+- [ ] Tested in locally
+- [ ] Tested
